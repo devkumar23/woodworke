@@ -922,6 +922,7 @@ body{
 }
 
 @media only screen and (max-width: 992px){
+    
     .bennar{
         padding: 8% 0% 15% 0%;
     }
@@ -1021,6 +1022,37 @@ body{
         margin: 0 auto;
         margin-bottom: 10%;
     }
+
+
+
+
+
+    .secend h2{
+        font-size: 2.5rem;
+    }
+
+    .sale img{
+        width: 25%;
+    }
+
+    .sale .tag{
+        padding: 1% 5%;
+        top: 87%;
+        left: 86.2%;
+    }
+
+    .s-childe{
+        padding-bottom: 7%;
+    }
+
+    .sale .gren{
+        padding: 1% 5%;
+        top: 87%;
+        left: 86.2%;
+    }
+
+
+
 
 }
 
@@ -1302,7 +1334,6 @@ body{
 
     nav{
         padding: 0% 0% 6.5%;
-    }
     }
 
 }
